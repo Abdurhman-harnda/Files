@@ -1,0 +1,23 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 20px black thick;
+    margin: 10px 10px 10px 10px;
+    
+}
+.tital{
+    color: rgb(113, 184, 8);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+hr{
+    width: 600px;
+    height: 5px;
+    background-color: black;
+    
+    margin: 0;
+}
+
+.OP{
+    color: rgb(59, 163, 194);
+    font-weight: 500;
+}
